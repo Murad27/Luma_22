@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  <suite name="@smoke" verbose="1" >
+  <test name="luma_Runner_Package" >
+    <classes>
+       <class name="luma_Runner_Package.My_runner" />
+    </classes>
+  </test>
+</suite>
